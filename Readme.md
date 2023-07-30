@@ -2,7 +2,7 @@
 Tool to decode and encode sc files from supercell games (works only on Windows) 
 ![menu](https://github.com/lilmuff2/X-coder/blob/images/menu-gui.png?raw=true)
 ## How to use:
-Just DOWNLOAD [Instaler](https://github.com/lilmuff2/X-coder/releases/download/v1.0-GUI/Xcoder_instaler.exe) and run it, and shortcut will apear in your desktop
+Just DOWNLOAD [Instaler](https://github.com/lilmuff2/X-coder/releases/download/v1.0-GUI/Xcoder_instaler.exe]) and run it, and shortcut will apear in your desktop
 ### Functions:
 #### Decode: 
 1. Select _tex.sc file
